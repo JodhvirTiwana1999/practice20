@@ -51,6 +51,7 @@ return (
     //     num === currentdata - 1 ||
     //     num === currentdata ||
     //     num === currentdata + 1 
+          //this is logic for it
     //   )
     // })
     .map(num => (
